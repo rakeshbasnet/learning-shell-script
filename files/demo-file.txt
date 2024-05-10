@@ -1,0 +1,3 @@
+Hellow, I am Rakesh Basnet.
+I am a DevOps Student learning Shell Scripting.
+This is my DevOps Learning Journey.
